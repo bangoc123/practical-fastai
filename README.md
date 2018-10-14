@@ -2,7 +2,7 @@
 
 It was confused experience overall for the first time using FastAI. Currently, If you wanted to learn some courses in its source code, there is only version 0.07 which is able to support you. Unfortunately, You need to ignore the `fastai 1.0.x` in this case.
 
-So I will show you how to install this version on Window 10. At the first name, I found it very strange and right now I am used to it.
+So I will show you how to install FastAI on Window 10. At the first name, I found it very strange and right now I am used to it.
 
 - 1. Make sure you have a Nvidia GPU installed and the drivers are set up already.
 - 2. [Anaconda](https://www.anaconda.com/download/?lang=en-us#download) need to be installed initially. I installed 64-bit version on my computer. Please check out my tutorial about setting up this over [here](https://github.com/bangoc123/learn-machine-learning-in-two-months/blob/master/essential-installs/vn-windows-python-and-libraries-installations.MD#4-anaconda). 
