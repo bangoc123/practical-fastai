@@ -16,7 +16,7 @@ So I will show you how to install FastAI on Window 10. At the first name, I foun
   - `del fastai`
   - `mklink /d fastai ..\..\old\fastai`
   - `cd ..\..`
-- 9. Run your notebook and checkout Where fastai was installed or not. Command with `jupyter notebook`
+- 9. Run your notebook and checkout whether fastai was installed or not. Command with `jupyter notebook`
 - 10. You need to ensure the correlation between versions of Pytorch and FastAI. Otherwise, you would get some errors about lacking API of Pytorch while running FastAI.
   - `fastai 1.0.x` matches `pytorch 1.0`
   - `fastai 0.7.x` matches `pytorch 0.4.1`
