@@ -1,6 +1,6 @@
 # practical-fastai
 
-It was confused experience overall for the first time using FastAI. Currently, If you wanted to learn some courses in its source code, there is only version 0.07 which is able to support you. Unfortunately, You need to ignore the `fastai 1.0.x` in this case.
+It was confused experience overall for the first time using FastAI. Currently, If you wanted to learn some courses in its source code, there would only version 0.07 which is able to support you. Unfortunately, You need to ignore the `fastai 1.0.x` in this case.
 
 So I will show you how to install FastAI on Window 10. At the first name, I found it very strange and right now I am used to it.
 
