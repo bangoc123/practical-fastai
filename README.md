@@ -23,5 +23,18 @@ So I will show you how to install FastAI on Window 10. At the first name, I foun
 
 **So please be vigilant about this.**
 
+Some experiments:
+
+- Image Recognition
+- CNNs
+- Overfitting
+- Embeddings
+- NLP
+- RNNs
+- CNN Architectures
+- Object Detection
+
+
+
 
 
